@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716048355 source:c:\users\gabi\desktop\teme facultate\proiect pclp\main.cpp
+	<stdio.h>
+	<SQLAPI.h>
+
